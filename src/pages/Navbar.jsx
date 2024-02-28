@@ -20,7 +20,9 @@ const Navbar = () => {
           <button className="text-white">Asesores</button>
           <button className="text-white">Docentes</button>
           <button className="text-white">Documentos</button>
+          <Link to='Tabla'>
           <button className="text-white">Alumnos</button>
+          </Link>
           <button className="text-white">Roles</button>
         </div>
       </div>

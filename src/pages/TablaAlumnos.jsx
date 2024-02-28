@@ -6,7 +6,6 @@ import Navbar from './Navbar';
 const students = [
   { id: 1, matricula: '22304958', nombre: 'Pedro Infante', edificio: 'Edificio H', grupo: 'SM52' },
   { id: 2, matricula: '22304959', nombre: 'Vicente Fernandez', edificio: 'Edificio H', grupo: 'SM52' },
-  // Añadir 10 estudiantes más
   { id: 3, matricula: '22304960', nombre: 'Jorge Negrete', edificio: 'Edificio A', grupo: 'SA41' },
   { id: 4, matricula: '22304961', nombre: 'Maria Felix', edificio: 'Edificio B', grupo: 'SB42' },
   { id: 5, matricula: '22304962', nombre: 'Dolores del Rio', edificio: 'Edificio C', grupo: 'SC43' },
